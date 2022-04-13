@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Welcome HCL
+         Welcome HCL TEAM
         </a>
       </header>
 	   <AmplifySignOut />
